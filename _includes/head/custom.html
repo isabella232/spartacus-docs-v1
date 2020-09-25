@@ -9,6 +9,10 @@
   anchors.add();
 </script>
 
+{% assign pagename = page.name | remove: '.md' | remove: 'index.html' %}
+<meta http-equiv="refresh" content="0; URL=https://sap.github.io/spartacus-docs/1.x/{{ pagename }}">
+<link rel="canonical" href="https://sap.github.io/spartacus-docs/1.x/{{ pagename }}/">
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <!-- end custom head snippets -->
