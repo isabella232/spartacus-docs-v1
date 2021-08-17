@@ -1,8 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: Spartacus Docs v1
+Upstream-Name: Spartacus Docs V1
 Upstream-Contact: SAP Spartacus team <spartacus-team@sap.com>
 Source: https://github.com/SAP/spartacus-docs-v1
-
 Disclaimer: The code in this project may include calls to APIs (“API Calls”) of
  SAP or third-party products or services developed outside of this project
  (“External Products”).
